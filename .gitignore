@@ -1,0 +1,9 @@
+# Vivado temporary and simulation files
+*.log
+*.jou
+*.str
+*.wdb
+*.xsim
+*.checkpoint
+pipeline.sim/
+pipeline.runs/
