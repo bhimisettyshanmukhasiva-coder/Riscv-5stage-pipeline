@@ -1,0 +1,16 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.wcfg
+
+RISC_V.cache/
+RISC_V.hw/
+RISC_V.ip_user_files/
+RISC_V.runs/
+RISC_V.sim/
+
+# Temporary files
+*.tmp
+*.bak
