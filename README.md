@@ -23,6 +23,8 @@ The processor follows a classic 5-stage RISC-V pipeline architecture consisting 
 * Memory Access (MEM)
 * Write Back (WB)
 
+![piprline stages](images/pipeline_waveform.png)
+
 ## Features
 
 * 32-bit RISC-V Processor
@@ -35,9 +37,6 @@ The processor follows a classic 5-stage RISC-V pipeline architecture consisting 
 * Verilog HDL
 * Xilinx Vivado
 
-## Simulation Results
-
-![Simulation](images/pipeline_waveform.png)
 
 ## Authors
 
