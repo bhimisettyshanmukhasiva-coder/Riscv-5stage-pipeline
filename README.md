@@ -4,11 +4,14 @@
 
 This project presents the design and implementation of a **32-bit 5-stage pipelined RISC-V processor** using **Verilog HDL** in **Xilinx Vivado**. The processor follows the standard RISC-V Instruction Set Architecture (ISA) and improves instruction throughput through pipelining.
 
+
 ## Architecture Overview
 
 The processor follows a classic 5-stage RISC-V pipeline architecture consisting of Instruction Fetch (IF), Instruction Decode (ID), Execute (EX), Memory Access (MEM), and Write Back (WB).
 
-![5-Stage Pipeline Architecture](images/Screenshot 2026-06-20 230757.png)
+![5-Stage Pipeline Architecture](images/pipeline_architecture.png)
+
+
 ## Pipeline Stages
 
 * Instruction Fetch (IF)
