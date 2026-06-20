@@ -36,7 +36,10 @@ The processor follows a classic 5-stage RISC-V pipeline architecture consisting 
 
 * Verilog HDL
 * Xilinx Vivado
+  
+## Simulation Results
 
+![Simulation](images/wave.png)
 
 ## Authors
 
