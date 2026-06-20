@@ -10,7 +10,7 @@ This project presents the design and implementation of a **32-bit 5-stage pipeli
 The processor follows a classic 5-stage RISC-V pipeline architecture consisting of Instruction Fetch (IF), Instruction Decode (ID), Execute (EX), Memory Access (MEM), and Write Back (WB).
 
 
-![5-Stage Pipeline Architecture](images/pipeline_architecture.png)
+![5-Stage Pipeline Architecture](images/pipeline_architecture_hd.png)
 
 
 
